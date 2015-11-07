@@ -1,5 +1,7 @@
 # meteor-annyang
 
+`meteor add osxi:annyang`
+
 A tiny javascript Speech Recognition library that lets your users control your site with voice commands.
 
 ## Globals
