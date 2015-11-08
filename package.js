@@ -2,7 +2,7 @@ Package.describe({
   name: 'osxi:annyang',
   version: '2.0.0',
   summary: 'Easy microphone speech recognition using JavaScript.',
-  git: 'git@github.com:osxi/meteor-annyang.git',
+  git: 'https://github.com/osxi/meteor-annyang.git',
   documentation: 'README.md'
 });
 
